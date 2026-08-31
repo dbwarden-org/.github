@@ -1,6 +1,6 @@
 # Contributing to DBWarden
 
-DBWarden is a model‑first migration system with a strong correctness guarantee, and we're glad you want to
+DBWarden is a declarative schema compiler with a strong correctness guarantee, and we're glad you want to
 be part of it.
 
 This document will help you get set up and explain the standards we follow.
