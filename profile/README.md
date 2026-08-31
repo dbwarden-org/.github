@@ -60,6 +60,30 @@ dbwarden migrate
 
 ---
 
+## Official Plugins
+
+| Plugin | Description |
+|--------|-------------|
+| [dbwarden-seeds](https://github.com/dbwarden-org/dbwarden-seeds) | Seed data management |
+| [dbwarden-fastapi](https://github.com/dbwarden-org/dbwarden-fastapi) | FastAPI sessions, lifespan, and health routes |
+| [dbwarden-sandbox](https://github.com/dbwarden-org/dbwarden-sandbox) | Safe declaration parsing without code execution |
+| [dbwarden-pgsql-rbac](https://github.com/dbwarden-org/dbwarden-pgsql-rbac) | PostgreSQL roles, grants, and row-level security |
+| [dbwarden-pgsql-extensions](https://github.com/dbwarden-org/dbwarden-pgsql-extensions) | PostgreSQL extension management |
+| [dbwarden-pgsql-types](https://github.com/dbwarden-org/dbwarden-pgsql-types) | PostgreSQL custom types and sequences |
+| [dbwarden-ch-rbac](https://github.com/dbwarden-org/dbwarden-ch-rbac) | ClickHouse access control |
+
+[**Browse community plugins on PyPI**](https://pypi.org/search/?q=dbwarden-)
+
+---
+
+## Creating Plugins
+
+Use the [**dbwarden-plugin-template**](https://github.com/dbwarden-org/dbwarden-plugin-template) to scaffold a new plugin: click **Use this template**, run one command, and you have a working, tested, publishable plugin with the standard layout.
+
+Full plugin development guide: [**docs.dbwarden.org/plugins**](https://docs.dbwarden.org/plugins/)
+
+---
+
 ## Documentation
 
 Full documentation with guides, cookbook, and API reference:  
