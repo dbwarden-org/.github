@@ -70,6 +70,7 @@ dbwarden migrate
 | [dbwarden-pgsql-rbac](https://github.com/dbwarden-org/dbwarden-pgsql-rbac) | PostgreSQL roles, grants, and row-level security |
 | [dbwarden-pgsql-extensions](https://github.com/dbwarden-org/dbwarden-pgsql-extensions) | PostgreSQL extension management |
 | [dbwarden-pgsql-types](https://github.com/dbwarden-org/dbwarden-pgsql-types) | PostgreSQL custom types and sequences |
+| [dbwarden-redis](https://github.com/dbwarden-org/dbwarden-redis) | Redis-backed distributed migration locking |
 | [dbwarden-ch-rbac](https://github.com/dbwarden-org/dbwarden-ch-rbac) | ClickHouse access control |
 
 [**Browse community plugins on PyPI**](https://pypi.org/search/?q=dbwarden-)
